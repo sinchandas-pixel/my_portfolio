@@ -23,7 +23,7 @@ The website is built to highlight my work and provide an easy way to connect wit
 ---
 
 ## 🚀 Live Demo
-🔗 [View My Portfolio](https://sinchandas-pixel.github.io/my_portfolio/)  
+🔗 [View My Portfolio](https://sinchandas.netlify.app/)  
 
 ---
 
