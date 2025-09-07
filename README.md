@@ -16,16 +16,14 @@ The website is built to highlight my work and provide an easy way to connect wit
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (or React if applicable)  
-- **Backend:** (Optional – Node.js / Express, etc.)  
-- **Styling:** TailwindCSS / Bootstrap / Custom CSS  
-- **Deployment:** GitHub Pages / Vercel / Netlify  
+- **Frontend:** HTML, CSS
+- **Styling:** Custom CSS  
+- **Deployment:** GitHub Pages / Netlify  
 
 ---
 
 ## 🚀 Live Demo
 🔗 [View My Portfolio](https://sinchandas-pixel.github.io/my_portfolio/)  
-*(Update this link after deployment)*  
 
 ---
 
